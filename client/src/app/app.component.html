@@ -1,0 +1,21 @@
+<ngx-spinner>
+    <h3>Loading...</h3>
+</ngx-spinner>
+
+<app-nav-bar></app-nav-bar>
+<app-section-header></app-section-header>
+
+<div>
+  <ng-container *ngIf="this.router.url.toString() !== '/'">
+  <app-scroll-top></app-scroll-top>
+  </ng-container>
+
+  <div class="web" [@routeAnimations]="prepareRoute(outlet)" >
+    <router-outlet #outlet="outlet"></router-outlet>
+  </div>
+</div>
+
+<ng-container *ngIf="this.router.url.toString() !== '/'">
+  <app-footer></app-footer>
+</ng-container>
+

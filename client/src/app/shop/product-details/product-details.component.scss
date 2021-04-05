@@ -1,0 +1,16 @@
+
+
+@media screen and (max-width: 65em) {
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+}
+
+#imgg {
+  width: 250px !important;
+}
+
+  }
+
