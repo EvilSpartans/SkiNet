@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tKUF5CJ5CMFYgOyDh2Gbar+FIXDLqVU8ZSZ1zmYra8GrJe50SjmdNhnbdFcEcFfHJd0gi2XVuQ4LsRsa0t8vVw==",
+  "dgSpecHash": "WVsFNvd5odDJPW0zxPGylQYchA5TfzggPCwMG8/9IrvAymQ/f0lD8D2B/mOYqIkYOZYGykHHxWIQIFp3E+d1Iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexi\\Desktop\\WorkSpace\\Angular\\SkiNet\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\alexi\\Desktop\\WorkSpace\\Angular\\SkiNet\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexi\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\alexi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
