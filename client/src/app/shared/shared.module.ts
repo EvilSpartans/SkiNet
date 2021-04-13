@@ -1,6 +1,9 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import {PaginationModule, CarouselModule, BsDropdownModule, TabsModule} from 'ngx-bootstrap';
+import {PaginationModule} from 'ngx-bootstrap/pagination';
+import {CarouselModule} from 'ngx-bootstrap/carousel';
+import {BsDropdownModule} from 'ngx-bootstrap/dropdown';
+import {TabsModule} from 'ngx-bootstrap/tabs';
 import { PagingHeaderComponent } from './components/paging-header/paging-header.component';
 import { PagerComponent } from './components/pager/pager.component';
 import { OrderTotalsComponent } from './components/order-totals/order-totals.component';

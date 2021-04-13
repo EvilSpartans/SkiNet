@@ -1,4 +1,4 @@
-import uuid from 'uuid/v4';
+import {v4 as uuidv4} from 'uuid';
 
 export interface IWishList {
     id: string;
@@ -16,7 +16,7 @@ export interface IWishListItem {
 }
 
 export class WishList implements IWishList {
-    id = uuid();
+    id = uuidv4();
     items: IWishListItem[] = [];
 }
 

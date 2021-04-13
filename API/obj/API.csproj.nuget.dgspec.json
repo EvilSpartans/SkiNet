@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexi\\Desktop\\WorkSpace\\Angular\\SkiNet\\api\\API.csproj": {}
+    "C:\\Users\\alexi\\Desktop\\WorkSpace\\Angular\\SkiNet\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexi\\Desktop\\WorkSpace\\Angular\\SkiNet\\api\\API.csproj": {
+    "C:\\Users\\alexi\\Desktop\\WorkSpace\\Angular\\SkiNet\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexi\\Desktop\\WorkSpace\\Angular\\SkiNet\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\alexi\\Desktop\\WorkSpace\\Angular\\SkiNet\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\alexi\\Desktop\\WorkSpace\\Angular\\SkiNet\\api\\API.csproj",
+        "projectPath": "C:\\Users\\alexi\\Desktop\\WorkSpace\\Angular\\SkiNet\\API\\API.csproj",
         "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexi\\Desktop\\WorkSpace\\Angular\\SkiNet\\api\\obj\\",
+        "outputPath": "C:\\Users\\alexi\\Desktop\\WorkSpace\\Angular\\SkiNet\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config"
