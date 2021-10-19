@@ -19,6 +19,12 @@ C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\9-es5.34bc0d0330
 C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\assets\images\ban1.jpg
 C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\assets\images\ban2.jpg
 C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\assets\images\ban3.jpg
+C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\assets\images\gal1.png
+C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\assets\images\gal2.png
+C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\assets\images\gal3.png
+C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\assets\images\gal4.png
+C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\assets\images\gal5.png
+C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\assets\images\gal6.png
 C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\assets\images\logo.png
 C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\assets\images\placeholder.png
 C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\common-es2015.e80430040ec844c28dc9.js
@@ -30,10 +36,10 @@ C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\fontawesome-webf
 C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg
 C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\fontawesome-webfont.f691f37e57f04c152e23.woff
 C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\index.html
-C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\main-es2015.89eb8c4c995c94cb5a22.js
-C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\main-es5.89eb8c4c995c94cb5a22.js
+C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\main-es2015.73739691c9c5d8dc4cf9.js
+C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\main-es5.73739691c9c5d8dc4cf9.js
 C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\polyfills-es2015.16c07e68c0996db1f122.js
-C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\polyfills-es5.ae658860d84ca54974c9.js
+C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\polyfills-es5.57ae4de4cf68a2eb3484.js
 C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\runtime-es2015.0f8f64c52af3eb21ac2c.js
 C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\runtime-es5.0f8f64c52af3eb21ac2c.js
 C:\Users\alexi\Desktop\WorkSpace\Angular\SkiNet\publish\wwwroot\styles.4874701a603f5fcc5a42.css
